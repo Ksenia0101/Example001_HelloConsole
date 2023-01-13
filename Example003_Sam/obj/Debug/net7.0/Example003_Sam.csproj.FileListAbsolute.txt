@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/Example003_Sam/bin/Debug/net7.0/Example003_Sam
+/Users/a1234/Desktop/C#/Example003_Sam/bin/Debug/net7.0/Example003_Sam.deps.json
+/Users/a1234/Desktop/C#/Example003_Sam/bin/Debug/net7.0/Example003_Sam.runtimeconfig.json
+/Users/a1234/Desktop/C#/Example003_Sam/bin/Debug/net7.0/Example003_Sam.dll
+/Users/a1234/Desktop/C#/Example003_Sam/bin/Debug/net7.0/Example003_Sam.pdb
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.dll
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/refint/Example003_Sam.dll
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.pdb
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/Example003_Sam.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Example003_Sam/obj/Debug/net7.0/ref/Example003_Sam.dll
