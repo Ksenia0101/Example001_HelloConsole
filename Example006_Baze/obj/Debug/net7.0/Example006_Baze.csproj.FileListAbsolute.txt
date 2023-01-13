@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/Example006_Baze/bin/Debug/net7.0/Example006_Baze
+/Users/a1234/Desktop/C#/Example006_Baze/bin/Debug/net7.0/Example006_Baze.deps.json
+/Users/a1234/Desktop/C#/Example006_Baze/bin/Debug/net7.0/Example006_Baze.runtimeconfig.json
+/Users/a1234/Desktop/C#/Example006_Baze/bin/Debug/net7.0/Example006_Baze.dll
+/Users/a1234/Desktop/C#/Example006_Baze/bin/Debug/net7.0/Example006_Baze.pdb
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.dll
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/refint/Example006_Baze.dll
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.pdb
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/Example006_Baze.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Example006_Baze/obj/Debug/net7.0/ref/Example006_Baze.dll
