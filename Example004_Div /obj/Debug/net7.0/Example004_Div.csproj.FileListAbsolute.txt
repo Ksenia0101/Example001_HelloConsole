@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/Example004_Div /bin/Debug/net7.0/Example004_Div
+/Users/a1234/Desktop/C#/Example004_Div /bin/Debug/net7.0/Example004_Div.deps.json
+/Users/a1234/Desktop/C#/Example004_Div /bin/Debug/net7.0/Example004_Div.runtimeconfig.json
+/Users/a1234/Desktop/C#/Example004_Div /bin/Debug/net7.0/Example004_Div.dll
+/Users/a1234/Desktop/C#/Example004_Div /bin/Debug/net7.0/Example004_Div.pdb
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.dll
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/refint/Example004_Div.dll
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.pdb
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/Example004_Div.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Example004_Div /obj/Debug/net7.0/ref/Example004_Div.dll

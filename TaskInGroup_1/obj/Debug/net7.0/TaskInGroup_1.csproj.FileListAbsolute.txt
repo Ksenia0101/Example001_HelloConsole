@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/TaskInGroup_1/bin/Debug/net7.0/TaskInGroup_1
+/Users/a1234/Desktop/C#/TaskInGroup_1/bin/Debug/net7.0/TaskInGroup_1.deps.json
+/Users/a1234/Desktop/C#/TaskInGroup_1/bin/Debug/net7.0/TaskInGroup_1.runtimeconfig.json
+/Users/a1234/Desktop/C#/TaskInGroup_1/bin/Debug/net7.0/TaskInGroup_1.dll
+/Users/a1234/Desktop/C#/TaskInGroup_1/bin/Debug/net7.0/TaskInGroup_1.pdb
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.dll
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/refint/TaskInGroup_1.dll
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.pdb
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/TaskInGroup_1.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/TaskInGroup_1/obj/Debug/net7.0/ref/TaskInGroup_1.dll
