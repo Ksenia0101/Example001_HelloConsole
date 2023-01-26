@@ -3,3 +3,13 @@
 /Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/Homework_Task29.AssemblyInfoInputs.cache
 /Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/Homework_Task29.AssemblyInfo.cs
 /Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/Homework_Task29.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task29/bin/Debug/net7.0/Homework_Task29
+/Users/a1234/Desktop/C#/Homework_Task29/bin/Debug/net7.0/Homework_Task29.deps.json
+/Users/a1234/Desktop/C#/Homework_Task29/bin/Debug/net7.0/Homework_Task29.runtimeconfig.json
+/Users/a1234/Desktop/C#/Homework_Task29/bin/Debug/net7.0/Homework_Task29.dll
+/Users/a1234/Desktop/C#/Homework_Task29/bin/Debug/net7.0/Homework_Task29.pdb
+/Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/Homework_Task29.dll
+/Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/refint/Homework_Task29.dll
+/Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/Homework_Task29.pdb
+/Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/Homework_Task29.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Homework_Task29/obj/Debug/net7.0/ref/Homework_Task29.dll
