@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/Homework_Task25/bin/Debug/net7.0/Homework_Task25
+/Users/a1234/Desktop/C#/Homework_Task25/bin/Debug/net7.0/Homework_Task25.deps.json
+/Users/a1234/Desktop/C#/Homework_Task25/bin/Debug/net7.0/Homework_Task25.runtimeconfig.json
+/Users/a1234/Desktop/C#/Homework_Task25/bin/Debug/net7.0/Homework_Task25.dll
+/Users/a1234/Desktop/C#/Homework_Task25/bin/Debug/net7.0/Homework_Task25.pdb
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.dll
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/refint/Homework_Task25.dll
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.pdb
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/Homework_Task25.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Homework_Task25/obj/Debug/net7.0/ref/Homework_Task25.dll
