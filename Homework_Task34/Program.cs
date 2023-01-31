@@ -17,7 +17,12 @@ void Print(int[] MASSIVE )
     }
     Console.WriteLine();
 }
-
+int count = 0; 
 int[] a = FillArray(10, 100, 1000);
 Print(a);
- 
+for (int i = 0; i < a.Length; i++)
+{
+    if (a[i] % 2 == 0)
+    count++;
+}
+Console.WriteLine("Количество четных чисел в массиве "+count);
