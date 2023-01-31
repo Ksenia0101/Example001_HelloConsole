@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/Homework_Task38/bin/Debug/net7.0/Homework_Task38
+/Users/a1234/Desktop/C#/Homework_Task38/bin/Debug/net7.0/Homework_Task38.deps.json
+/Users/a1234/Desktop/C#/Homework_Task38/bin/Debug/net7.0/Homework_Task38.runtimeconfig.json
+/Users/a1234/Desktop/C#/Homework_Task38/bin/Debug/net7.0/Homework_Task38.dll
+/Users/a1234/Desktop/C#/Homework_Task38/bin/Debug/net7.0/Homework_Task38.pdb
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.dll
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/refint/Homework_Task38.dll
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.pdb
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/Homework_Task38.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Homework_Task38/obj/Debug/net7.0/ref/Homework_Task38.dll
