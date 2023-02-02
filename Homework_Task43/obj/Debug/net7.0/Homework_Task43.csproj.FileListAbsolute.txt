@@ -3,3 +3,13 @@
 /Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.AssemblyInfoInputs.cache
 /Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.AssemblyInfo.cs
 /Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task43/bin/Debug/net7.0/Homework_Task43
+/Users/a1234/Desktop/C#/Homework_Task43/bin/Debug/net7.0/Homework_Task43.deps.json
+/Users/a1234/Desktop/C#/Homework_Task43/bin/Debug/net7.0/Homework_Task43.runtimeconfig.json
+/Users/a1234/Desktop/C#/Homework_Task43/bin/Debug/net7.0/Homework_Task43.dll
+/Users/a1234/Desktop/C#/Homework_Task43/bin/Debug/net7.0/Homework_Task43.pdb
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.dll
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/refint/Homework_Task43.dll
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.pdb
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/ref/Homework_Task43.dll
