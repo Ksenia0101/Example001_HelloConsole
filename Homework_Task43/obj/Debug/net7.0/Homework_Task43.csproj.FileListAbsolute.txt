@@ -1,0 +1,5 @@
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Homework_Task43/obj/Debug/net7.0/Homework_Task43.csproj.CoreCompileInputs.cache
