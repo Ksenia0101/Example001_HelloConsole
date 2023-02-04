@@ -1,0 +1,15 @@
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.csproj.AssemblyReference.cache
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.AssemblyInfoInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.AssemblyInfo.cs
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.csproj.CoreCompileInputs.cache
+/Users/a1234/Desktop/C#/Homework_Task47/bin/Debug/net7.0/Homework_Task47
+/Users/a1234/Desktop/C#/Homework_Task47/bin/Debug/net7.0/Homework_Task47.deps.json
+/Users/a1234/Desktop/C#/Homework_Task47/bin/Debug/net7.0/Homework_Task47.runtimeconfig.json
+/Users/a1234/Desktop/C#/Homework_Task47/bin/Debug/net7.0/Homework_Task47.dll
+/Users/a1234/Desktop/C#/Homework_Task47/bin/Debug/net7.0/Homework_Task47.pdb
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.dll
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/refint/Homework_Task47.dll
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.pdb
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/Homework_Task47.genruntimeconfig.cache
+/Users/a1234/Desktop/C#/Homework_Task47/obj/Debug/net7.0/ref/Homework_Task47.dll
